@@ -1,0 +1,9 @@
+services:
+  backend:
+    build: null
+  client:
+    build: null
+  hardhat:
+    build: null
+  hardhat-deployer:
+    build: null
